@@ -1,0 +1,111 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: linear-gradient(to top right, #300d14, #8f3545);
+    height: 200vh;
+}
+.container {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    max-width: 1200px;
+    padding: 2rem;
+    gap: 1rem;
+}
+
+/* Start of Status Page Widget Styles */
+:root {
+    --background-colour: #fff;
+    --hover-text: black;
+    --page-text-colour: #ffffff;
+    --box-text-colour: #444444;
+    --link-colour: #4b3fcd;
+}
+#statusDiv {
+    color: var(--box-text-colour);
+    display: flex;    
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+#statusDiv a {
+    color: var(--link-colour);
+    text-decoration: none;
+}
+.statusKey {
+    color: var(--page-text-colour);
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+.statusKey ul{
+    font-size: 0.8rem;
+    list-style: none;
+    padding: 0;
+}
+.trafficLight {
+    width: 0.6rem;
+    height: 0.6rem;
+    border-radius: 0.6rem;
+    display: inline-block; 
+}
+.statusList {
+    list-style: none;
+    padding: 1rem 1rem;
+}
+.none {
+    background-color: #2dad45;
+}
+.operational {
+    background-color: #2dad45;
+}
+.minor {
+    background-color: #ffd988;
+}
+.degraded_performance {
+    background-color: #ffd988;
+}
+.major {
+    background-color: #ed7f2b;
+}
+.partial_outage {
+    background-color: #ed7f2b;
+}
+.critical {
+    background-color: #c40000;
+}
+.major_outage {
+    background-color: #c40000;
+}
+.maintenance {
+    background-color: #8ee8fa;
+}
+.statusHoverDefault {
+	position: relative;
+    background: var(--background-colour);
+    border: 2px solid black;
+    border-radius: 0.5rem;
+	display: inline-block;
+    padding: 1rem;
+}
+.statusHoverDefault li {
+	width:100%;
+    white-space:nowrap;
+}
+.statusHoverDefault .statusHoverActive {
+	visibility: hidden;
+	background-color: var(--background-colour);
+    border: 2px solid black;
+    border-radius: 0.5rem;
+	color: var(--hover-text);
+	position: absolute;
+	z-index: 1;
+}
+.statusHoverDefault:hover .statusHoverActive {
+    visibility: visible;
+}
+/* End of Status Page Widget Styles */
