@@ -1,5 +1,5 @@
 import { useState } from "react"
-import Summary from "./summary"
+import Summary from "./Summary"
 import Experience from "./Experience"
 import Projects from "./Projects"
 
