@@ -1,4 +1,4 @@
 # Remeil.co.nz
 
-This website is Keiran Hembrow's portfolio website (currently).
-This latest deployment uses React and will depoloyed to a RPi to be served with Node and Apache.
+This website is Keiran Hembrow's portfolio website as of March 2025.
+This latest deployment uses React with my own CSS and has been deployed onto a RPi and served with Apache.
