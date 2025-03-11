@@ -344,7 +344,7 @@ export default function Main(props) {
                 <div className="stickyHeader">
                     <h2>About Me</h2>
                 </div>
-                <p>I have a wide variety of experience in any different roles, from Warehousing and Customer Service to Telecommunications and Web Development.</p>
+                <p>I have a wide variety of experience in many different roles, from Warehousing and Customer Service to Telecommunications and Web Development.</p>
                 <p>I have hobbies that give me greater insight, such as: Woodworking, Drawing &#40;Digital and Traditional&#41;, Language &#40;Spanish and Japanese&#41; and RPGs &#40;Digital and Tabletop&#41;.</p>
                 <p>Currently I am seeking employment that can put my skills to the test.</p> 
                 <p>While I am happy to lean on my professional experience and continue in Telecommunications, I would also be delighted to stretch myself and take on a new challenge in a tangential industry or even something entirely different.</p>
