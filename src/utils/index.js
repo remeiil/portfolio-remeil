@@ -327,7 +327,7 @@ export const project = [
     {
         "name" : "Pokedex App",
         "image" : "../pokedexDemo.png",
-        "imageUrl" : "https://github.com/remeiil/pokedex",
+        "imageUrl" : "https://pokedex.remeil.co.nz/",
         "description" : "A pokedex app informed by a React tutorial by Smoljames / James Macarthur. A few tweaks mad eto ensure I wasn't just following the tutorial but actually learning.",
         "callouts" : [
             "React as the primary Library",
