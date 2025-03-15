@@ -20,6 +20,10 @@
 html {
   scroll-behavior: smooth;
 }
+.highlight {
+  color: var(--white-highlight);
+  font-weight: bold;
+}
 
 #root {
   background-image: linear-gradient(to top right, var(--dark-background), var(--secondary));
