@@ -7,6 +7,7 @@ export default function Header(props) {
         <header>
             <h1>Keiran Hembrow</h1>
             <div className="typewriter"><h3>Searching for employment...</h3></div>
+            <h4>In Office: Auckland, Hamilton, Tauranga</h4>
             <p>Keeping the customer experience at the heart of everything.<br/>
             With a strong passion for knowledge and understanding.</p>
             <Nav NavHighlighted={NavHighlighted} setNavHighlighted={setNavHighlighted} />
