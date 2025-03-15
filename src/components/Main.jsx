@@ -14,7 +14,8 @@ export default function Main(props) {
                 <div className="stickyHeader">
                     <h2>About Me</h2>
                 </div>
-                <p>I am <abbr title={'I am still looking for employment as of ' + today + ' March'} className="highlight">available for an immediate start</abbr>. I am seeking employment that will put my skills to the test whilst also expanding my knowledge and experience.</p> 
+                <p>I am <abbr title={'I am still looking for employment as of ' + today + ' March'} className="highlight">available for an immediate start</abbr>. I am available for an immediate start.</p> 
+                <p>My experience encompasses website & domain hosting, telecommunications and customer service. My hobbies drive me toward website design and development.</p> 
             </section>
             <section id="summary" className="summary" onMouseEnter={() => { setNavHighlighted("summary") }}>
                 <Summary experience={experience} />
