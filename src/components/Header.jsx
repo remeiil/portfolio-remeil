@@ -8,7 +8,7 @@ export default function Header(props) {
         <header>
             <h1>Keiran Hembrow</h1>
             <div className="typewriter"><h3>Searching for employment...</h3></div>
-            <h5>Preferrably in Office: Auckland, Hamilton or Tauranga</h5>
+            <h5>Preferably in office: Auckland, Hamilton or Tauranga</h5>
 
             <Nav NavHighlighted={NavHighlighted} setNavHighlighted={setNavHighlighted} />
 
