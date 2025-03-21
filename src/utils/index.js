@@ -133,7 +133,7 @@ export const experience = [
         "tenure" : "January 2013 - January 2016",
         "company" : "Orcon",
         "companyUrl" : "https://www.orcon.net.nz/",
-        "title" : "Business Support Team Leader",
+        "title" : "Business and Hosting Support Team Leader",
         "subtitle" : "Business and Hosting Support Team Leader",
         "responsibilities" : [
             "Coach Team Members in the interest of improving customer experience.",
