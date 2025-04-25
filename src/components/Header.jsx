@@ -7,8 +7,8 @@ export default function Header(props) {
     return (
         <header>
             <h1>Keiran Hembrow</h1>
-            <div className="typewriter"><h3>Searching for employment...</h3></div>
-            <h5>Preferably in office: Auckland, Hamilton or Tauranga</h5>
+            <div className="typewriter"><h3>Always Learning...</h3></div>
+            <h5>Currently React, will be looking at C++ next.</h5>
 
             <Nav NavHighlighted={NavHighlighted} setNavHighlighted={setNavHighlighted} />
 
