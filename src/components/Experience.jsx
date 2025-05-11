@@ -2,7 +2,7 @@ export default function Experience(props) {
     const { experience } = props
     const experienceData = experience.map((experience, index) =>{
         return (
-            experience.company === "Chorus" ? 
+            experience.company === "Chorus" || experience.company === "PTS" ? 
             <div className="experienceCard" id={experience.id} key={index}>
                 <p className="tenure">{experience.tenure}</p>
                 <div className="cardColumn">
