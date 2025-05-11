@@ -24,11 +24,14 @@ export const experience = [
             "Active Directory",    
             "Nagios",
             "N-Able N-Central",
+            "PowerShell",
             "Remote Desktop Protocol",
             "Sharepoint",
             "SQL",
             "Teams",
             "TeamViewer",
+            "Veeam",
+            "VMWare",
             "Windows Server 2016, 2022, 2025"           
         ]
     },
