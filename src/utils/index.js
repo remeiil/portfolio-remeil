@@ -1,5 +1,38 @@
 export const experience = [
     {
+        "id" : "infrastructureEngineer",
+        "shortTenure" : "2025 - Present",
+        "tenure" : "May 2025 - Present",
+        "company" : "PTS",
+        "companyUrl" : "https://www.pacifictechsol.com/",
+        "title" : "Infrastructure Engineer",
+        "subtitle" : "Level 1",
+        "responsibilities" : [
+            "Triaging and managing inbound communication for the helpdesk.",
+            "Providing regular updates to customers in the event of critical service failures.",
+            "Escalating issues where time or experience is a factor.",
+            "Provisioning new users and mailboxes.",
+            "Configuring hardware and installing software for new and existing users.",
+            "Creating actionable tickets based on monitoring system alerts.",
+            "Backup verification.",
+            "Ensuring SLA targets are met."
+        ],
+        "achievements" : [
+            "In progress"
+        ],
+        "technologies" : [
+            "Active Directory",    
+            "Nagios",
+            "N-Able N-Central",
+            "Remote Desktop Protocol",
+            "Sharepoint",
+            "SQL",
+            "Teams",
+            "TeamViewer",
+            "Windows Server 2016, 2022, 2025"           
+        ]
+    },
+    {
         "id" : "platformEngineer",
         "shortTenure" : "2022 - Dec",
         "tenure" : "August 2022 - December 2024",
@@ -40,6 +73,7 @@ export const experience = [
             "RESTful APIs",
             "Sharepoint",
             "SQL",
+            "Teams",
             "Trello"            
         ]
     },
