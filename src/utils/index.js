@@ -82,7 +82,7 @@ export const experience = [
     },
     {
         "id" : "onCall",
-        "shortTenure" : "2023 - Dec",
+        "shortTenure" : "2023 - Dec 24",
         "tenure" : "January 2023 - December 2024",
         "company" : "Chorus",
         "companyUrl" : "https://company.chorus.co.nz/",
