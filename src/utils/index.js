@@ -2,7 +2,7 @@ export const experience = [
     {
         "id" : "infrastructureEngineer",
         "shortTenure" : "2025 - Present",
-        "tenure" : "May 2025 - Present",
+        "tenure" : "April 2025 - Present",
         "company" : "PTS",
         "companyUrl" : "https://www.pacifictechsol.com/",
         "title" : "Infrastructure Engineer",
@@ -37,8 +37,8 @@ export const experience = [
     },
     {
         "id" : "platformEngineer",
-        "shortTenure" : "2022 - Dec",
-        "tenure" : "August 2022 - December 2024",
+        "shortTenure" : "2022 - Jan 25",
+        "tenure" : "August 2022 - January 2025",
         "company" : "Chorus",
         "companyUrl" : "https://company.chorus.co.nz/",
         "title" : "Platform Engineer",
