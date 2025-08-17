@@ -18,7 +18,7 @@ export const experience = [
             "Ensuring SLA targets are met."
         ],
         "achievements" : [
-            "In progress"
+            "Created a Dashboard to display on the wall monitor which uses N-Central's RESTful API to interact with our devices. The dashboard is written in vanilla JS and compartmentalised in such a way that the engineer's with very little development experience will be able to make modifications to the filters without disrupting the logic of the board. The goal was to create a board that improved on N-Centrals Active Issues and align more closely with Nagios/Nagstamon."
         ],
         "technologies" : [
             "Active Directory",    
